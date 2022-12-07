@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome.&fontSize=90&align=center)
-<div align="center">
 
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome.&fontSize=90)
 
 # Have Stack
 # android
