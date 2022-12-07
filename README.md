@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
  
 # Server
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white">
