@@ -3,3 +3,4 @@
 
 # Have Stack
 <img src="https://img.shields.io/badge/Kotlin-EE4C2C?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Android-EE4C2C?style=for-the-badge&logo=Android&logoColor=white">
