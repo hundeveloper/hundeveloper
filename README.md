@@ -1,9 +1,7 @@
 
 <div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=700&height=300&section=header&text=Welcome.&fontSize=90)
-
-
-
+</div>
 
 
 # Have Stack
