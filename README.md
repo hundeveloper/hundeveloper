@@ -4,7 +4,7 @@
 # Have Stack
 # android
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-# Kotlin
+# kotlin
 <img src="https://img.shields.io/badge/Kotlin-1071D3?style=for-the-badge&logo=Kotlin&logoColor=white">
 
 
